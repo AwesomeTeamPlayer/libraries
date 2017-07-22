@@ -1,0 +1,15 @@
+{
+  "require": {
+    "php-amqplib/php-amqplib":"2.6.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.0"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "": [
+        "./src/"
+      ]
+    }
+  }
+}
