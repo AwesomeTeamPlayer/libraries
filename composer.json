@@ -1,6 +1,6 @@
 {
   "name": "awesometeamplayer/libraries",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "library",
   "require": {
     "php-amqplib/php-amqplib":"2.6.3"
