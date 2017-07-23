@@ -2,8 +2,8 @@
 
 namespace Adapters;
 
-use AwesomeTeamPlayerLibraries\Adapters\RabbitMqEventsRepository;
-use AwesomeTeamPlayerLibraries\Adapters\ValueObjects\Event;
+use AwesomeTeamPlayer\Libraries\Adapters\RabbitMqEventsRepository;
+use AwesomeTeamPlayer\Libraries\Adapters\ValueObjects\Event;
 use PhpAmqpLib\Channel\AMQPChannel;
 use PhpAmqpLib\Connection\AMQPStreamConnection;
 use PHPUnit\Framework\TestCase;

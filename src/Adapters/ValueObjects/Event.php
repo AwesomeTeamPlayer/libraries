@@ -1,6 +1,6 @@
 <?php
 
-namespace AwesomeTeamPlayerLibraries\Adapters\ValueObjects;
+namespace AwesomeTeamPlayer\Libraries\Adapters\ValueObjects;
 
 class Event
 {

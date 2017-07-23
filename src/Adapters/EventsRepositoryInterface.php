@@ -1,8 +1,8 @@
 <?php
 
-namespace AwesomeTeamPlayerLibraries\Adapters;
+namespace AwesomeTeamPlayer\Libraries\Adapters;
 
-use AwesomeTeamPlayerLibraries\Adapters\ValueObjects\Event;
+use AwesomeTeamPlayer\Libraries\Adapters\ValueObjects\Event;
 
 interface EventsRepositoryInterface
 {

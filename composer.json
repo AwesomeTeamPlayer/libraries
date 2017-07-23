@@ -1,6 +1,7 @@
 {
   "name": "awesometeamplayer/libraries",
   "require": {
+    "php": ">=7.1.0",
     "php-amqplib/php-amqplib":"2.6.3"
   },
   "require-dev": {
@@ -8,7 +9,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "AwesomeTeamPlayerLibraries\\": [
+      "AwesomeTeamPlayer\\Libraries\\": [
         "./src/"
       ]
     }
