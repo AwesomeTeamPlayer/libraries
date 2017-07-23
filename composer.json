@@ -7,11 +7,9 @@
   "require-dev": {
     "phpunit/phpunit": "6.0"
   },
-  "autoload-dev": {
+  "autoload": {
     "psr-4": {
-      "AwesomeTeamPlayer\\Libraries\\": [
-        "./src/"
-      ]
+      "AwesomeTeamPlayer\\Libraries\\": "src/"
     }
   }
 }
