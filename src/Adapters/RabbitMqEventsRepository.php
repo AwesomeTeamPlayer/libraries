@@ -1,8 +1,8 @@
 <?php
 
-namespace Adapters;
+namespace AwesomeTeamPlayerLibraries\Adapters;
 
-use Adapters\ValueObjects\Event;
+use AwesomeTeamPlayerLibraries\Adapters\ValueObjects\Event;
 use PhpAmqpLib\Channel\AMQPChannel;
 use PhpAmqpLib\Message\AMQPMessage;
 
